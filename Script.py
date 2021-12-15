@@ -19,8 +19,9 @@ class script(object):
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥 V1
+- V2 IS CLOSED SOURCE 😉
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/madtoazenzio/PROFFESER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
 <a href="https://t.me/Proffeser_Z_bot"> 𝑻𝑬𝑨𝑴 Z_Bots </a>"""
