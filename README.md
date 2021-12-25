@@ -99,6 +99,11 @@ delete - Delete file from database
 index - Index all files from channel.
 logger - Get log file
 ```
+## TUTORIAL VIDEO
+
+<a href="https://youtu.be/fgyk4LCc00o"><img alt="YouTube" src="https://img.shields.io/badge/Tutoral Video-2CA5E0?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
 
 ## Tips
 * You can use `|` to separate query and file type while searching for specific type of file. For example: `Avengers | video`
